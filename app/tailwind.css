@@ -1,5 +1,5 @@
 @import "tailwindcss";
-
+@import "@appwrite.io/pink-icons";
 
 summary::-webkit-details-marker {
   display: none
