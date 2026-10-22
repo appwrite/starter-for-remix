@@ -1,4 +1,3 @@
-import type { MetaFunction } from "@remix-run/node";
 import {useCallback, useEffect, useRef, useState} from "react";
 import {client} from "../../lib/appwrite";
 import {AppwriteException} from "appwrite";
